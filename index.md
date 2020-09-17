@@ -18,12 +18,14 @@ Hello There this is a test to see where the text goes
 
 1. Numbered
 2. List
+```
+This is a test to see how to create a functional link. This [link](https://www.iastate.edu/) leads you to the Iowa State Website.
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
-
+### Test
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
